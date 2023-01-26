@@ -1,6 +1,8 @@
 # Java Records
 
-Tutorial tomado del canal de [youtube Salvador Pérez](https://www.youtube.com/watch?v=j-bPnCqFh2o)
+Tutorial tomado de los siguientes canales de youtube:  
+- [Youtube Salvador Pérez](https://www.youtube.com/watch?v=j-bPnCqFh2o)
+- [Coding with John](https://www.youtube.com/watch?v=gJ9DYC-jswo)
 
 # Records en Java
 
@@ -14,3 +16,4 @@ modificarse sus atributos una vez creado el objeto; y es que para generar una
 clase inmutable se necesita mucho código, y eso es lo que nos va a ahorrar los **records**
 
 ---
+# Records In Java - Full Tutorial - The Best New Java Feature You're Not Using
