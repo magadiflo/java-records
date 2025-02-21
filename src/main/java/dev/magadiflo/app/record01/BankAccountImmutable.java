@@ -1,4 +1,4 @@
-package record01;
+package dev.magadiflo.app.record01;
 
 import java.util.Objects;
 

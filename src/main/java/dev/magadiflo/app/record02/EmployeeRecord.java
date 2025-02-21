@@ -1,4 +1,4 @@
-package record02;
+package dev.magadiflo.app.record02;
 
 /**
  * Esta única línea de código es equivalente a

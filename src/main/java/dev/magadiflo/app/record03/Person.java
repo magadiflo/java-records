@@ -1,4 +1,4 @@
-package record03;
+package dev.magadiflo.app.record03;
 
 public record Person(String name, int age, Contact contact) {
     public static class Contact {
